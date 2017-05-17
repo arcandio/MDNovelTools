@@ -1,5 +1,7 @@
 # MD Novel Tools
 
+[Github Home](https://github.com/arcandio/MDNovelTools)
+
 * **What is it?** It's a toolkit to mimic Literature & Latte's wonderful Scrivener, but for plaintext Markdown files.
 * **Why you do this?** Writing, synchronizing, and editing long-form documents is easier when document versions can be compared. What better way to compare and keep track of your writing than using [Git](https://git-scm.com/), or another source control management system?
 * **How does it work?** Right now, you need to have Python and Pandoc installed. Then you download the source and run the `tools.pyw` file and boom, you get an app:
