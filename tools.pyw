@@ -273,7 +273,7 @@ tags: [fiction, novel, literature]
             text = "Rebuild Tree",
             command = self.GetFileTree).grid(row=1,column=0)
         ttk.Button (self.tools,
-            text = "Unify Newlines",
+            text = "Spread Newlines",
             command = self.DoubleSpace).grid(row=0,column=1)
         ttk.Button (self.tools,
             text = "Compile MS",
